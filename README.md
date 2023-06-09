@@ -35,7 +35,7 @@
 detection/yolov5/ma.py
 
 #### 3) Depth Estimation을 이용하여 드론과 위험상황에 처한 사람 거리 분석
-
+드론이 촬영하고 있는 영상을 170칸의 구역으로 나누어 bounding box의 중심좌표가 위치한 구역에 따라 거리와 방향 출력
 ![image](https://github.com/Ahpuh-Ahpuh/SeeSea/assets/93649914/038843c8-fbc0-4b02-a8d3-eacf344e7d33)
 depth_estimation.ipynb 
 #### 4) 이중 PI 제어로 드론 위치 고정
