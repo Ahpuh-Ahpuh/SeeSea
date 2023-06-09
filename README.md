@@ -7,7 +7,7 @@
 
 ## 프로젝트 소개
 드론을 이용한 실시간 영상 인식과 수상 구조
-![image](https://github.com/Ahpuh-Ahpuh/SeeSea/assets/93649914/86baae14-7241-4150-9003-dd5169b1e17a)
+![20230609_144947](https://github.com/Ahpuh-Ahpuh/SeeSea/assets/93649914/528e6d8c-63b9-4298-bf9e-b34f34d61b44)
 ## 요구사항 정의
 ![image](https://github.com/Ahpuh-Ahpuh/SeeSea/assets/93649914/cfc50685-d3c9-4f69-9f43-42fdffb03e46)
 
