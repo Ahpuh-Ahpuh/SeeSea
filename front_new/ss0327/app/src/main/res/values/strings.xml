@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ss0327</string>
+    <string name="drone1">drone1</string>
+    <string name="drone2">drone2</string>
+    <string name="drone3">drone3</string>
+    <string name="output">output</string>
+    <string name="output2">output2</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
